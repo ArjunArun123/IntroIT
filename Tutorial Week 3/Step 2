@@ -1,0 +1,15 @@
+Step 2: Organise and Describe the Data
+
+There are five input signals and one output signal:
+
+    IGN (Ignition): Active-HIGH (1 = On, 0 = Off).
+
+    DRIV (Driver Presence): Active-HIGH (1 = Occupied, 0 = Empty).
+
+    PASS (Passenger Presence): Active-HIGH (1 = Occupied, 0 = Empty).
+
+    BELTD (Driver Seatbelt): Active-LOW (0 = Unfastened, 1 = Fastened).
+
+    BELTP (Passenger Seatbelt): Active-LOW (0 = Unfastened, 1 = Fastened).
+
+    ALARM (Output): Active-LOW (0 = Sounding, 1 = Silent).
