@@ -1,0 +1,3 @@
+Step 1: Understand and Define the Problem (Analyse)
+
+The objective is to design a combinational logic circuit for a car alarm system. The alarm (which is active-LOW, meaning 0 = Alarm On) must activate if the car's ignition is on and at least one front seat is occupied by a person who has not fastened their seatbelt.
